@@ -44,9 +44,9 @@
 
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb m-5">
-    <li class="breadcrumb-item"><a href="/index.php">Go back to Index</a></li>
+    <li class="breadcrumb-item"><a href="index.php">Go back to Index</a></li>
     <li class="breadcrumb-item active" aria-current="page">Form Handling</li>
-    <li class="breadcrumb-item"><a href="/html/arithmetic.php">Methods and Functions</a></li>
+    <li class="breadcrumb-item"><a href="arithmetic.php">Methods and Functions</a></li>
     <li class="breadcrumb-item"><a href="#">Date Functions</a></li>
   </ol>
 </nav>
