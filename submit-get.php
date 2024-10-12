@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="styles.css">
     <title>GET Data Received</title>
 </head>
 <body>
@@ -32,7 +32,7 @@
             echo '<div class="alert alert-warning" role="alert">No data received.</div>';
         }
         ?>
-        <a href="/html/form.php" class="btn btn-primary mt-3">Go Back to Form</a>
+        <a href="form.php" class="btn btn-primary mt-3">Go Back to Form</a>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
