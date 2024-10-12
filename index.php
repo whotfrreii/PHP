@@ -20,8 +20,8 @@
 
         <div class="listing">
             <ul>
-                <li><a href="./html/form.php">Form Handling</a></li>
-                <li><a href="./html/arithmetic.php">Methods and Functions</a></li>
+                <li><a href="form.php">Form Handling</a></li>
+                <li><a href="arithmetic.php">Methods and Functions</a></li>
                 <li><a href="">Date Functions</a></li>
             </ul>
 
